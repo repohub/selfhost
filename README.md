@@ -1,4 +1,4 @@
 ## Selfhost Activator
 
 usage:
-  ./selhost.sh username password
+    ./selhost.sh username password
